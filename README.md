@@ -1,1 +1,0 @@
-# YOLO11L-Object-Detection
